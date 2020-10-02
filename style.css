@@ -16,3 +16,6 @@
     -webkit-box-orient: vertical;
 
 }
+.small.two-line{
+    min-height: 2rem;
+}
