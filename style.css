@@ -9,6 +9,7 @@
 }
 .two-line{
     height: 3rem;
+    line-height: 1.5rem;
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
